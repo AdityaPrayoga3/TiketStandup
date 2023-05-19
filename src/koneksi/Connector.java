@@ -8,7 +8,6 @@ import java.sql.Connection;
 import java.sql.SQLException;
 /**
  *
- * @author msi-modern
  */
 public class Connector {
     static Connection con;
